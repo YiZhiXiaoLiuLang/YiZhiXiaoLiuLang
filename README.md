@@ -1,8 +1,6 @@
-$$\def{\s}{2pt}\def{\t}{2pt}\mathclap{ \color{#ccc}\begin{array}{c:c|c:c|c:c|c:c|c:c|c:c|c:c|c:c|c:c|c:c|} \kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} &\kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} &\kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} &\kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} & \kern{\s} & \cr[\t]\hdashline \cr[\t]\hline \cr[\t]\hdashline \cr[\t]\hline \cr[\t] \end{array} } \def{\b}{-3pt} \mathclap{ \begin{aligned} \Huge \textrm{\color{FFd700}\texttt 陆\kern{-2px}\color{FFd700}\texttt 夏\kern{-2px}\color{FFd700}\texttt 青 } \textrm{\color{FFd700}\texttt 
-Y\kern{-2px}\color{FFc700}\texttt i\kern{-2px}\color{FFb600}\texttt Z\kern{-2px}\color{FFa500}\texttt h\kern{-2px}\color{FF8400}\texttt i\kern{-2px}\color{FF6400}\texttt X\kern{-2px}\color{FF4300}\texttt i\kern{-2px}\color{FF2200}\texttt a\kern{-2px}\color{FF1000}\texttt o\kern{-2px}\color{FF0000}\texttt 
-L\color{FF0000}\texttt i\kern{-2px}\color{FF0000}\texttt u\kern{-2px}\color{FF0000}\texttt L\kern{-2px}\color{FF0000}\texttt an\kern{-2px}\color{FF0000}\texttt g} \cr[-17pt] \huge\color{purple}\underline{\kern{176pt}} \cr[-13.3pt] \huge\color{purple}\underline{\kern{176pt}} \cr[5pt] \Huge\color{yellowgreen}\textrm{一只小流浪} \end{aligned}}$$
 
-hi,我是一直小流浪
+
+hi,我是一只小流浪
 
 一只很菜的三花猫
 
@@ -62,5 +60,9 @@ qq:3035969948
 精神上的我 和肉体上的我
 
 共同的墓地
+
+看着新装的防盗网
+
+我知道这一切都追悔莫及......
 
 ```
