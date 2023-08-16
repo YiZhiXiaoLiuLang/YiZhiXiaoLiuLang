@@ -1,9 +1,9 @@
 
 
-$\color{pink}\text{「不向焦虑与抑郁低头，这个世界终会有我们存在的地方」}$
+$$\color{pink}\text{「不向焦虑与抑郁低头，这个世界终会有我们存在的地方」}$$
 
-$\color{pink}\text{「奇迹和魔法，都是存在的呀」}
-$
+$$\color{pink}\text{「奇迹和魔法，都是存在的呀」}$$
+
 
 
 ![](https://www.cutercounter.com/hits.php?id=hxkqqcc&nd=8&style=102" )
