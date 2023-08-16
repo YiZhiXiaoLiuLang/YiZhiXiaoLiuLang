@@ -1,12 +1,14 @@
 
 
-hi,我是一只小流浪
+$$
+\color{pink}\text{「不向焦虑与抑郁低头，这个世界终会有我们存在的地方」}
+$$
+$$
+\color{pink}\text{「奇迹和魔法，都是存在的呀」}
+$$
 
-一只很菜的三花猫
 
-qq:3035969948
-
-![照片](https://ts1.cn.mm.bing.net/th?id=OIP-C.5WWFaSbdqYIGz4uUYtwTQQAAAA&w=169&h=170&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
+![](https://www.cutercounter.com/hits.php?id=hxkqqcc&nd=8&style=102" )
 
 ```
 如果上天给我一次机会
